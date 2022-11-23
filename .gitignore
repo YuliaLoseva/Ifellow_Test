@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+Ifellow_Test.iml
+/.idea
+
+# Project exclude paths
+/out/
